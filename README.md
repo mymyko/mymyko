@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mymyko
+- 👨‍💻 I’m currently learning Python.
